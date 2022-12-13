@@ -1,0 +1,2 @@
+> Annotations are key-value pairs indexed to use with filter expressions. In the above case, traces for a user A needs to be tracked, for which Annotations can be used along with a Filter expression to find all traces related to that user. 
+> [More Info](https://docs.aws.amazon.com/xray/latest/devguide/xray-concepts.html)
