@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "TODO",
+        "icon": "RiTodoLine",
+        "for": "everything",
+        "color": "#ff5900"
+      },
+      {
+        "rule": "Tasks",
+        "icon": "RiTaskLine",
+        "for": "everything",
+        "color": "#ffffff"
+      },
+      {
+        "rule": "aws",
+        "icon": "FabAws",
+        "for": "everything",
+        "color": "#ff7b00"
+      },
+      {
+        "rule": "AWS",
+        "icon": "FabAws",
+        "for": "everything",
+        "color": "#ff7b00"
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  }
+}

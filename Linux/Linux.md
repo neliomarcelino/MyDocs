@@ -1,9 +1,14 @@
-# Linux
+# Linux Overview
+ 
+```ccard
+type: folder_brief_live
+```
+ 
 
 %% Begin Waypoint %%
-- **[[Linux]]**
-	- [[Linux]]
-	- **[[Networking]]**
-	- **[[openVPN]]**
+- **LibreOffice**
+- [[Linux]]
+- **[[Networking]]**
+- **[[openVPN]]**
 
 %% End Waypoint %%
