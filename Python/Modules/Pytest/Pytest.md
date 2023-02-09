@@ -1,6 +1,3 @@
-# Pytest
-# PyTest
-
 ## Console Usage
 
 ```shell

@@ -1,10 +1,13 @@
+# git Overview
+ 
 ```ccard
 type: folder_brief_live
 ```
  
 
 %% Begin Waypoint %%
-- [[LibreOffice]]
-- [[lowriter]]
+- **[[git]]**
+	- [[git]]
+	- [[update-index]]
 
 %% End Waypoint %%
